@@ -1,5 +1,7 @@
 # Coherent Concept-based Explanations in Medical Image and Its Application to for Skin Lesion Diagnosis
 
+Paper accepted at the CVPR 2023 workshop SAIAD - Safe Artificial Intelligence for All Domains.
+
 ### 1. Dataset Statistics
 
 <table>
