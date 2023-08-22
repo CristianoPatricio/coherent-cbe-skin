@@ -1,6 +1,6 @@
 # Coherent Concept-based Explanations in Medical Image and Its Application to for Skin Lesion Diagnosis
 
-Paper accepted at the CVPR 2023 workshop SAIAD - Safe Artificial Intelligence for All Domains.
+<a href="https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/papers/Patricio_Coherent_Concept-Based_Explanations_in_Medical_Image_and_Its_Application_to_CVPRW_2023_paper.pdf" target="_blank">Paper</a> accepted at the CVPR 2023 workshop SAIAD - Safe Artificial Intelligence for All Domains.
 
 ### 1. Dataset Statistics
 
@@ -59,7 +59,7 @@ Paper accepted at the CVPR 2023 workshop SAIAD - Safe Artificial Intelligence fo
 
 Download the required datasets:
 
-1. PH$^2$: https://www.fc.up.pt/addi/ph2%20database.html
+1. PH2: https://www.fc.up.pt/addi/ph2%20database.html
 2. Derm7pt: https://derm.cs.sfu.ca/Welcome.html
 
 First of all, create a new conda environment with the required libraries contained in requirements.txt file:
