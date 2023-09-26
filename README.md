@@ -2,6 +2,20 @@
 
 <a href="https://openaccess.thecvf.com/content/CVPR2023W/SAIAD/papers/Patricio_Coherent_Concept-Based_Explanations_in_Medical_Image_and_Its_Application_to_CVPRW_2023_paper.pdf" target="_blank">Paper</a> accepted at the CVPR 2023 workshop SAIAD - Safe Artificial Intelligence for All Domains.
 
+### Citation
+
+If you use this repository, please cite:
+
+```
+@inproceedings{patricio2023coherent,
+  title={Coherent Concept-based Explanations in Medical Image and Its Application to Skin Lesion Diagnosis},
+  author={Patr{\'\i}cio, Cristiano and Neves, Jo{\~a}o C and Teixeira, Luis F},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  pages={3798--3807},
+  year={2023}
+}
+```
+
 ### 1. Dataset Statistics
 
 <table>
