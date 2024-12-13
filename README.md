@@ -76,6 +76,8 @@ Download the required datasets:
 1. PH2: https://www.fc.up.pt/addi/ph2%20database.html
 2. Derm7pt: https://derm.cs.sfu.ca/Welcome.html
 
+**Note**: To obtain the preprocessed images of each dataset, please e-mail me at cristiano [dot] patricio [at] ubi [dot] pt.
+
 First of all, create a new conda environment with the required libraries contained in requirements.txt file:
 
 ```bash
